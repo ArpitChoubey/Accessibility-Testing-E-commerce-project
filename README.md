@@ -400,6 +400,55 @@ Final Accessibility Report
 - Cross Browser Testing
 
 ---
+## ♿ Accessibility Testing Evidence
+
+To demonstrate practical accessibility testing, I performed an accessibility assessment of the **Spartoo E-commerce Website** using multiple accessibility testing tools.
+
+### 🛠 Accessibility Tools Used
+
+- 🌊 WAVE Web Accessibility Evaluation Tool
+- 🪓 axe DevTools Accessibility Testing
+- 📋 Manual Accessibility Testing
+
+### 🔍 axe DevTools Accessibility Scan
+
+The axe DevTools assessment identified **42 accessibility issues**, including color contrast, alternative text, form labels, descriptive link text, and HTML structure-related findings.
+
+
+## 🔍 axe DevTools Accessibility Scan
+
+The axe DevTools assessment identified **42 accessibility issues**, including color contrast, alternative text, form labels, descriptive link text, and HTML structure-related findings.
+
+
+<img width="1917" height="1057" alt="image" src="https://github.com/user-attachments/assets/b18b2f2c-6c91-4d4e-a142-c2387fe0b2e7" />
+
+---
+
+## 🌊 WAVE Accessibility Evaluation
+
+WAVE was used to visually inspect accessibility errors, contrast findings, ARIA implementation, structural elements, and accessibility alerts across the e-commerce interface.
+
+<img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/d3d47623-a848-4b3c-b6bc-fdbe27a87666" />
+
+
+### 📊 Key Accessibility Areas Assessed
+
+- Color Contrast
+- Image Alternative Text
+- Form Labels
+- Accessible Names
+- Descriptive Link Text
+- ARIA Implementation
+- HTML Structure
+- Keyboard Accessibility
+- Screen Reader Compatibility
+- WCAG Accessibility Compliance
+
+> **Quality Engineering Perspective:** Automated accessibility tools can identify many technical violations, but accessibility testing should also include keyboard navigation, screen reader validation, and manual usability assessment.
+
+📌 **Website Assessed:** Spartoo E-commerce Website  
+♿ **Focus:** Accessibility Testing | WCAG | Inclusive Quality Engineering
+
 
 # 👨‍💻 About Me
 
